@@ -4,10 +4,9 @@ const FILES_TO_CACHE = [
   "/",
   "/index.html",
   "/manifest.webmanifest",
-  "/assets/css/style.css",
-  "/routes/api.js",
-  "public/icons/icon-192x192.png",
-  "pulic/icons/icon-512x512.png",
+  "/style.css",
+  "/index.js",
+  "/db.js"
 ];
 
 // install
