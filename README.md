@@ -48,7 +48,7 @@ When brought back online entries are added to the tracker.
 
 ## Demo
 
-Deployed Heroku application: https://.budgettrackerrapp.herokuapp.com
+Deployed Heroku application: https://budgettrackerrapp.herokuapp.com
 
 ## Contact
 
